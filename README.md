@@ -32,14 +32,17 @@ Logistic Regression:
 
 - Accuracy: 84.79%
 - High sensitivity (99.3%) but low specificity (9.2%).
+  
 Naive Bayes:
 
 - Accuracy: 83.88%
 - Perfect sensitivity but zero specificity.
+  
 Decision Tree:
 
 - Accuracy: 85.02%
 - Sensitivity: 0.9851, Specificity: 0.1479.
+  
 Random Forest:
 
 - Accuracy: 99.32%
